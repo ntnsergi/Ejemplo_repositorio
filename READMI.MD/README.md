@@ -16,7 +16,7 @@ A continuación una __tabla:__
 | 2 | Computadora |
 | 3 | Celular |
 
-Entrar al siguiente link: [Youtube video](https://www.youtube.com/)
+Entrar al siguiente link: [Youtube video](https://www.youtube.com/watch?v=BLDHMfBUnqc)
 
 _A continuacion la siguiente imagen:_
 
